@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5mm"
+   height="5mm"
+   viewBox="0 0 5 5"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/chrisg/Golioth/ostentus/hw/ostentus-hw/mech/power-5mm.png"
+   inkscape:export-xdpi="1000.7599"
+   inkscape:export-ydpi="1000.7599"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="power-5mm-1000dpi.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.19452"
+     inkscape:cx="1.2031354"
+     inkscape:cy="5.1650823"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="89"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292)">
+    <path
+       id="path834"
+       d="m 2.50822,296.99996 c -1.300003,0 -2.36111603,-1.06111 -2.36111603,-2.36111 0,-0.69445 0.311107,-1.35001 0.82778,-1.79446 0.15556403,-0.13333 0.39999103,-0.0944 0.50555603,0.0889 0.07779,0.13333 0.05556,0.32777 -0.06665,0.42776 -0.39444,0.33334 -0.61666803,0.83334 -0.58889003,1.36667 0.03888,0.81112 0.67222403,1.48889 1.47778103,1.58334 1.016669,0.11666 1.877781,-0.67778 1.877781,-1.66667 0,-0.49444 -0.222222,-0.96111 -0.594445,-1.27778 -0.122213,-0.10556 -0.149991,-0.28888 -0.06665,-0.42777 0.10556,-0.17777 0.35001,-0.22223 0.505557,-0.0888 0.516667,0.44444 0.827779,1.1 0.827779,1.79444 0.01664,1.29445 -1.044494,2.35556 -2.344495,2.35556 z m 0,-2.96112 c -0.188894,0 -0.338885,-0.14999 -0.338885,-0.33888 v -1.36112 c 0,-0.18889 0.149991,-0.33888 0.338885,-0.33888 0.188893,0 0.338884,0.14999 0.338884,0.33888 v 1.36112 c 0,0.18335 -0.149991,0.33888 -0.338884,0.33888 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.00462964" />
+  </g>
+</svg>
