@@ -1,2 +1,4 @@
 *.kicad_sch-bak
 *-backups
+*#*
+/output

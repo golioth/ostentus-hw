@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 3.0,
+          "width": 28.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,8 +48,20 @@
           "min_clearance": 0.254
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "malformed_courtyard|133500000|105300000|79e2034e-6053-469c-8434-9bb20d5aa43a|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|185500000|127300000|79e2034e-6053-469c-8434-9bb20d5aa43a|00000000-0000-0000-0000-000000000000",
+        "via_dangling|133100000|100575500|388a125d-6d8c-4434-8e8c-951acf231992|00000000-0000-0000-0000-000000000000",
+        "via_dangling|135700000|68900000|50e8b729-d48d-4833-89bf-b1d6700534b2|00000000-0000-0000-0000-000000000000",
+        "via_dangling|167800000|100800000|d71242b8-d9f6-41f4-918e-1600943b25b7|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -112,8 +124,17 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.5,
+        1.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -351,8 +372,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6.0
       }
     ],
