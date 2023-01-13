@@ -13,7 +13,10 @@
    viewBox="0 0 14.173228 14.173228"
    id="svg4"
    sodipodi:docname="lightbulb-5mm-1000dpi.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/chrisg/Golioth/ostentus-hw/mech/lightbulb-5mm-1000dpi.png"
+   inkscape:export-xdpi="1000.76"
+   inkscape:export-ydpi="1000.76">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,8 +44,8 @@
      inkscape:window-height="1019"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="18.88"
-     inkscape:cx="-6.0487095"
+     inkscape:zoom="73.025"
+     inkscape:cx="9.4488189"
      inkscape:cy="10.301127"
      inkscape:window-x="0"
      inkscape:window-y="89"
