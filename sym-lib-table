@@ -4,4 +4,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/lib/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
   (lib (name "CAP1203-1-SN")(type "KiCad")(uri "${KIPRJMOD}/lib/CAP1203-1-SN.kicad_sym")(options "")(descr ""))
   (lib (name "XZMDKCBDDG45S-9")(type "KiCad")(uri "${KIPRJMOD}/lib/XZMDKCBDDG45S-9.kicad_sym")(options "")(descr ""))
+  (lib (name "LIS2DH12")(type "KiCad")(uri "${KIPRJMOD}/lib/LIS2DH12.kicad_sym")(options "")(descr ""))
 )
