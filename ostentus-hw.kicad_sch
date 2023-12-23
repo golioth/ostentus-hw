@@ -4,6 +4,13 @@
 
   (paper "B")
 
+  (title_block
+    (title "Ostentus")
+    (date "2023-12-22")
+    (rev "B")
+    (company "Golioth")
+  )
+
   (lib_symbols
     (symbol "CAP1203-1-SN:CAP1203-1-SN" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -12.7 16.51 0)
