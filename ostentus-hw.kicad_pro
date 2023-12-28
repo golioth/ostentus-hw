@@ -56,7 +56,15 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "malformed_courtyard|185500000|127300000|79e2034e-6053-469c-8434-9bb20d5aa43a|00000000-0000-0000-0000-000000000000",
+        "solder_mask_bridge|132991165|136045674|a35861bc-fc22-42bf-a74d-31d8eaba8382|0413bf8e-797d-41cd-8cc3-55f382a6b062",
+        "solder_mask_bridge|132991263|136047999|a0e29a23-8247-4a04-a44e-3a1580e58245|0413bf8e-797d-41cd-8cc3-55f382a6b062",
+        "solder_mask_bridge|148151293|138092427|d0b24856-5b45-4262-b7ad-9d14bf6f0c18|0f290ae1-4096-43a5-9093-7dbf1a321033",
+        "solder_mask_bridge|149498489|136600212|9a5b1fd5-5357-4903-8665-267fc3a3b67f|0f290ae1-4096-43a5-9093-7dbf1a321033",
+        "solder_mask_bridge|149651290|136592430|d33b20a9-0171-4c8e-b510-abbd7679dcd4|0f290ae1-4096-43a5-9093-7dbf1a321033",
+        "solder_mask_bridge|163176593|135031304|bedc899f-da56-49b2-a462-85dff7f01eea|0840453f-092c-41c1-87a4-a8ffe54c7b0d"
+      ],
       "meta": {
         "version": 2
       },
@@ -447,7 +455,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "output/mech/ostentus-hw_202312041254.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
