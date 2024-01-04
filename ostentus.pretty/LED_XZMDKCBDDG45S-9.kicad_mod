@@ -10,7 +10,7 @@
     (tstamp 7bceec44-ceea-4355-9ae1-68d6f3ff970e)
   )
   (fp_circle (center 0 0) (end 1.677051 0)
-    (stroke (width 0.1) (type solid)) (fill none) (layer "F.Cu") (tstamp f8abe181-49b5-4079-ba1e-2683d26cb13e))
+    (stroke (width 0.127) (type solid)) (fill none) (layer "F.Cu") (tstamp f8abe181-49b5-4079-ba1e-2683d26cb13e))
   (fp_circle (center 4.3 -0.725) (end 4.4 -0.725)
     (stroke (width 0.2) (type solid)) (fill none) (layer "F.SilkS") (tstamp 3f823954-0b21-49f8-bdea-f8714bf0955d))
   (fp_circle (center 0 0) (end 1.55 0)
