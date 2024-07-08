@@ -2,3 +2,4 @@
 *-backups
 *#*
 /output
+*.lck
