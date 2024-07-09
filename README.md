@@ -8,8 +8,8 @@ This is released as Revision C of the Ostentus.
 ## On the board
 * Raspberry Pi Pico - Originally chosen during the part shortages of 2022-23, the Pico provides a low cost solution including a programming interface over the USB port + micropython ease-of-use
 * ePaper interface
-* Accelerometer (LIS2DH) -- Currently unimplemented but targeting "double tap" behaviors in the future
-* 3 button capacitive touch controller ()
+* Accelerometer ([LIS2DH12](https://www.st.com/content/ccc/resource/technical/document/datasheet/12/c0/5c/36/b9/58/46/f2/DM00091513.pdf/files/DM00091513.pdf/jcr:content/translations/en.DM00091513.pdf)) -- Currently unimplemented but targeting "double tap" behaviors in the future
+* 3 button capacitive touch controller ([CAP-1203-1](https://www.microchip.com/en-us/product/cap1203))
 * QWIIC header for incoming power and i2c
 * Downward firing LEDs
 
@@ -33,7 +33,6 @@ TO-DO
 ## Purchase
 
 The Ostentus board is not available to purchase. Please contact [devrel@golioth.io](mailto:devrel@golioth.io) if you would like to arrange help with your manufacturing. 
-
 
 ## Hardware Lineage and License
 
