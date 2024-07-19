@@ -28,7 +28,10 @@ The Aludel form factor (Originally the "Aludel Mini" form factor) is based aroun
 
 ### Rev C Photos
 
-TO-DO
+![Ostentus_Front_Lit_RevC](https://github.com/user-attachments/assets/023f728b-6769-40fc-a74c-adb07ec1b32a)
+![Ostentus_Back_RevC](https://github.com/user-attachments/assets/80250679-b436-4527-9bf3-28893d854fc3)
+![Ostentus_Front_RevC](https://github.com/user-attachments/assets/8cdddbff-4d8f-4bb5-bb33-42f0ac376888)
+
 
 ## Purchase
 
